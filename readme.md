@@ -64,6 +64,12 @@ Default: `false`
 Type: `boolean`<br>
 Default: `false`
 
+## Todos
+- switch chromeLauncher when https://github.com/GoogleChrome/lighthouse/pull/916 lands
+- add more options
+- make loglevel available as an option
+- handle results according to options specified e.g. json, html, domhtml
+
 ## License
 
 MIT © [Damian Leung](http://dstrct.io)
