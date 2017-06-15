@@ -1,0 +1,25 @@
+{
+  "name": "gulp-lighthouse",
+  "version": "0.0.1",
+  "description": "Running lighthouse as a gulp task",
+  "license": "MIT",
+  "repository": "damianleung/gulp-lighthouse",
+  "author": {
+    "name": "Damian Leung",
+    "email": "damianleung@gmail.com",
+    "url": "dstrct.io"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "lighthouse"
+  ],
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "lighthouse": "^2.1.0"
+  }
+}
